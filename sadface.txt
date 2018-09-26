@@ -1,1 +1,4 @@
-aaass
+Editado
+git add .
+git commit -m"Editei o arquivo"]
+git push
